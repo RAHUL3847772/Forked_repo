@@ -1,0 +1,5 @@
+#ignoring .exe file
+*.exe
+
+#ignoring File1.txt
+file1.txt
